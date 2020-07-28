@@ -22,7 +22,7 @@ Run Laravel project locally:
 - Test cases can be found under tests/Unit
 
 
-### Production environment changes
+### Production environment changes and limitations of system due to time constrains
 - A git repository with features development branch and master branch.
 - A detailed documentation on all features and business logic in project.
 - Make sure deployment user has sufficient rights to web server.
